@@ -1,1 +1,2 @@
-export MAUDE_LIB=$HOME/.local/share/maude/
+export MAUDE_LIB="$HOME/.local/share/maude/"
+export MAUDE_LIB="$HOME/.local/share/maude/acrpo-tool-distribution/:$MAUDE_LIB"
