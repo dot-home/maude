@@ -1,0 +1,3 @@
+[submodule "ext/mfe"]
+	path = ext/mfe
+	url = https://github.com/maude-team/mfe
